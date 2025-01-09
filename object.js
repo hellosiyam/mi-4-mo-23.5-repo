@@ -1,5 +1,5 @@
 const sakibKhan = {
-    name : Sakib-Khan,
+    name : "Sakib-Khan",
     years : 56,
     friends :["Apu", "Raj", "Bubli"],
     address : "Movie",
@@ -9,3 +9,4 @@ const sakibKhan = {
         made : 2025,
     }
 }
+console.log(sakibKhan.car);
